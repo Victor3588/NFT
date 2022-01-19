@@ -25,12 +25,18 @@
     .left {
       width: 45%;
     }
+    .body{
+        background-color: #755800;
+    }
 
 }
 
 @media (max-width: 900px) {
     .left {
       width: 90%; }
+    }
+    .body{
+        background-color: #755800;
     }
 
 
@@ -51,7 +57,7 @@
 .input{
     border-radius: 5px;
     height: 30px;
-    width: 450px;
+    width: 62%;
     
 }
 .button{
@@ -59,7 +65,7 @@
 }
 #signin{
     height: 40px;
-    width: 460px;
+    width: 63%;
     border-radius: 5px;
     font-weight: bold;
     background-color: #F5DDAA;
