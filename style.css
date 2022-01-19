@@ -655,9 +655,6 @@ border-bottom-left-radius: 20px;
   @media (max-width: 500px){
     .sendETHButton {
       width: 90%; }
-      .card{
-          margin-top: 100px;
-    }
     }
   
 
