@@ -168,8 +168,6 @@ body{
 }
 .footer{
     padding-top: 50px;
-    width: auto;
-    height: auto;
     background-color: #ad8b58;
     font-family: arial;
     color: #fcDeB2;
@@ -445,8 +443,8 @@ h1 span{
 }
 .iconlogo{
     margin-top: 10px;
-    height: 80%;
-    width: 80%;
+    height: 80px;
+    width: 90px;
 }
 
 .logo{
@@ -649,15 +647,16 @@ border-bottom-left-radius: 20px;
     .sendETHButton {
       width: 45%;
     }
-      .card{
-	margin-bottom ： 100px;
-	}
+    .card{
+        margin-bottom: 100px;
+    }
 
 }
   
   @media (max-width: 500px){
     .sendETHButton {
       width: 90%; }
+
     }
   
 
